@@ -1,0 +1,8 @@
+C:\Users\svyatoslav\Desktop\магистратура\1 курс 2 семестр\Теория сложности алгоритмов\Valentina6\bin\Debug\Valentina6.exe.config
+C:\Users\svyatoslav\Desktop\магистратура\1 курс 2 семестр\Теория сложности алгоритмов\Valentina6\bin\Debug\Valentina6.exe
+C:\Users\svyatoslav\Desktop\магистратура\1 курс 2 семестр\Теория сложности алгоритмов\Valentina6\bin\Debug\Valentina6.pdb
+C:\Users\svyatoslav\Desktop\магистратура\1 курс 2 семестр\Теория сложности алгоритмов\Valentina6\obj\Debug\Valentina6.csproj.AssemblyReference.cache
+C:\Users\svyatoslav\Desktop\магистратура\1 курс 2 семестр\Теория сложности алгоритмов\Valentina6\obj\Debug\Valentina6.csproj.SuggestedBindingRedirects.cache
+C:\Users\svyatoslav\Desktop\магистратура\1 курс 2 семестр\Теория сложности алгоритмов\Valentina6\obj\Debug\Valentina6.csproj.CoreCompileInputs.cache
+C:\Users\svyatoslav\Desktop\магистратура\1 курс 2 семестр\Теория сложности алгоритмов\Valentina6\obj\Debug\Valentina6.exe
+C:\Users\svyatoslav\Desktop\магистратура\1 курс 2 семестр\Теория сложности алгоритмов\Valentina6\obj\Debug\Valentina6.pdb

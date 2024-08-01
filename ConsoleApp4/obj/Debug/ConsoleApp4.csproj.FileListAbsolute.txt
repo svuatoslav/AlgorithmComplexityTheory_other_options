@@ -1,0 +1,8 @@
+C:\Users\svyatoslav\Desktop\магистратура\1 курс 2 семестр\Теория сложности алгоритмов\ConsoleApp4\bin\Debug\ConsoleApp4.exe.config
+C:\Users\svyatoslav\Desktop\магистратура\1 курс 2 семестр\Теория сложности алгоритмов\ConsoleApp4\bin\Debug\ConsoleApp4.exe
+C:\Users\svyatoslav\Desktop\магистратура\1 курс 2 семестр\Теория сложности алгоритмов\ConsoleApp4\bin\Debug\ConsoleApp4.pdb
+C:\Users\svyatoslav\Desktop\магистратура\1 курс 2 семестр\Теория сложности алгоритмов\ConsoleApp4\obj\Debug\ConsoleApp4.csproj.AssemblyReference.cache
+C:\Users\svyatoslav\Desktop\магистратура\1 курс 2 семестр\Теория сложности алгоритмов\ConsoleApp4\obj\Debug\ConsoleApp4.csproj.SuggestedBindingRedirects.cache
+C:\Users\svyatoslav\Desktop\магистратура\1 курс 2 семестр\Теория сложности алгоритмов\ConsoleApp4\obj\Debug\ConsoleApp4.csproj.CoreCompileInputs.cache
+C:\Users\svyatoslav\Desktop\магистратура\1 курс 2 семестр\Теория сложности алгоритмов\ConsoleApp4\obj\Debug\ConsoleApp4.exe
+C:\Users\svyatoslav\Desktop\магистратура\1 курс 2 семестр\Теория сложности алгоритмов\ConsoleApp4\obj\Debug\ConsoleApp4.pdb
